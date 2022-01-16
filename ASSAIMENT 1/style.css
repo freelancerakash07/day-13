@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.clock{
+    height: 250px;
+    width: 250px;
+    background-color: #130f40;
+    margin: 50px auto;
+    padding: 5px 200px;
+    border-radius: 5px;
+    
+}
+.clock{
+    width: 250px;
+    color: rgb(226, 21, 21);
+    font-size: 50px;
+}
+
